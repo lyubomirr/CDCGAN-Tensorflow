@@ -1,1 +1,1 @@
-# DCGAN_Tensorflow
+# CDCGAN_Tensorflow
